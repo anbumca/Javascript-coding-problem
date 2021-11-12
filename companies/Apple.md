@@ -6,7 +6,7 @@ This problem was asked by Apple.
 
 Implement a job scheduler which takes in a function f and an integer n, and calls f after n milliseconds.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem10.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem10.js)
 
 ---
 
@@ -16,7 +16,7 @@ This problem was asked by Apple.
 
 Implement a queue using two stacks. Recall that a queue is a FIFO (first-in, first-out) data structure with the following methods: enqueue, which inserts an element into the queue, and dequeue, which removes it.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem53.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem53.js)
 
 ---
 
@@ -44,7 +44,7 @@ For example, given N = 6 and X = 12, you should return 4, since the multiplicati
 
 And there are 4 12's in the table.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem74.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem74.js)
 
 ---
 
@@ -56,6 +56,6 @@ Given a tree, find the largest tree/subtree that is a BST.
 
 Given a tree, return the size of the largest tree/subtree that is a BST.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem93.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem93.js)
 
 ---

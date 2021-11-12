@@ -37,7 +37,7 @@ function canPartition(nums) {
   total /= 2;
 
   // the same as Problem 42
-  // https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem42.js
+  // https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem42.js
 
   // return subsetSum(nums, total);
   return subsetSumBetter(nums, total);

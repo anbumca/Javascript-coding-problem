@@ -8,7 +8,7 @@ Given an array of time intervals (start, end) for classroom lectures (possibly o
 
 For example, given [(30, 75), (0, 50), (60, 150)], you should return 2.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem21.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem21.js)
 
 ---
 
@@ -22,6 +22,6 @@ The input list is not necessarily ordered in any way.
 
 For example, given [(1, 3), (5, 8), (4, 10), (20, 25)], you should return [(1, 3), (4, 10), (20, 25)].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem77.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem77.js)
 
 ---

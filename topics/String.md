@@ -10,7 +10,7 @@ For example, the message '111' would give 3, since it could be decoded as 'aaa',
 
 You can assume that the messages are decodable. For example, '001' is not allowed.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem7.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem7.js)
 
 ---
 
@@ -24,7 +24,7 @@ For example, given the query string de and the set of strings [dog, deer, deal],
 
 Hint: Try preprocessing the dictionary into a more efficient data structure to speed up queries.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem11.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem11.js)
 
 ---
 
@@ -36,7 +36,7 @@ Given an integer k and a string s, find the length of the longest substring that
 
 For example, given s = "abcba" and k = 2, the longest substring with k distinct characters is "bcb".
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem13.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem13.js)
 
 ---
 
@@ -82,7 +82,7 @@ The name of a file contains at least a period and an extension.
 The name of a directory or sub-directory will not contain a period.
 
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem17.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem17.js)
 
 ---
 
@@ -96,7 +96,7 @@ For example, given the set of words 'quick', 'brown', 'the', 'fox', and the stri
 
 Given the set of words 'bed', 'bath', 'bedbath', 'and', 'beyond', and the string "bedbathandbeyond", return either ['bed', 'bath', 'and', 'beyond] or ['bedbath', 'and', 'beyond'].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem22.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem22.js)
 
 ---
 
@@ -114,7 +114,7 @@ For example, given the regular expression "ra." and the string "ray", your funct
 
 Given the regular expression ".*at" and the string "chat", your function should return true. The same regular expression on the string "chats" should return false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem25.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem25.js)
 
 ---
 
@@ -128,7 +128,7 @@ For example, given the string `"([])[]({})"`, you should return true.
 
 Given the string `"([)]"` or `"((()"`, you should return false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem27.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem27.js)
 
 ---
 
@@ -152,7 +152,7 @@ For example, given the list of words ["the", "quick", "brown", "fox", "jumps", "
 "the   lazy   dog"] # 4 extra spaces distributed evenly
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem28.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem28.js)
 
 ---
 
@@ -166,7 +166,7 @@ For example, the string "AAAABBBCCDAA" would be encoded as "4A3B2C1D2A".
 
 Implement run-length encoding and decoding. You can assume the string to be encoded have no digits and consists solely of alphabetic characters. You can assume the string to be decoded is valid.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem29.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem29.js)
 
 ---
 
@@ -178,7 +178,7 @@ The edit distance between two strings refers to the minimum number of character 
 
 Given two strings, compute the edit distance between them.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem31.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem31.js)
 
 ---
 
@@ -192,7 +192,7 @@ For example, given the string "race", you should return "ecarace", since we can 
 
 As another example, given the string "google", you should return "elgoogle".
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem34.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem34.js)
 
 ---
 
@@ -204,7 +204,7 @@ Given a string, find the longest palindromic contiguous substring. If there are 
 
 For example, the longest palindromic substring of "aabcdcb" is "bcdcb". The longest palindromic substring of "bananas" is "anana".
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem46.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem46.js)
 
 ---
 
@@ -218,7 +218,7 @@ You can assume that there are no spaces at the ends of the string and that there
 
 For example, given the string "the quick brown fox jumps over the lazy dog" and k = 10, you should return: ["the quick", "brown fox", "jumps over", "the lazy", "dog"]. No string in the list has a length of more than 10.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem57.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem57.js)
 
 ---
 
@@ -230,7 +230,7 @@ Given a mapping of digits to letters (as in a phone number), and a digit string,
 
 For example if {“2”: [“a”, “b”, “c”], 3: [“d”, “e”, “f”], …} then “23” should return [“ad”, “ae”, “af”, “bd”, “be”, “bf”, “cd”, “ce”, “cf"].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem81.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem81.js)
 
 ---
 
@@ -242,7 +242,7 @@ Using a read7() method that returns 7 characters from a file, implement readN(n)
 
 For example, given a file with the content “Hello world”, three read7() returns “Hello w”, “orld” and then “”.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem82.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem82.js)
 
 ---
 
@@ -254,7 +254,7 @@ Given a string of parentheses, write a function to compute the minimum number of
 
 For example, given the string "()())()", you should return 1. Given the string ")(", you should return 2, since we must remove all of them.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem86.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem86.js)
 
 ---
 
@@ -268,7 +268,7 @@ For example, given the string "figehaeci" and the set of characters {a, e, i}, y
 
 If there is no substring containing all the characters in the set, return null.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem103.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem103.js)
 
 ---
 
@@ -280,7 +280,7 @@ Given two strings A and B, return whether or not A can be shifted some number of
 
 For example, if A is abcde and B is cdeab, return true. If A is abc and B is acb, return false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem108.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem108.js)
 
 ---
 
@@ -292,6 +292,6 @@ Given a word W and a string S, find all starting indices in S which are anagrams
 
 For example, given that W is "ab", and S is "abxaba", return 0, 3, and 4.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem111.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem111.js)
 
 ---

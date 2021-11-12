@@ -8,7 +8,7 @@ An XOR linked list is a more memory efficient doubly linked list. Instead of eac
 
 If using a language that has no pointers (such as Javascript), you can assume you have access to getPointer and dereferencePointer functions that converts between nodes and memory addresses.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem6.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem6.js)
 
 ---
 
@@ -24,7 +24,7 @@ In this example, assume nodes with the same value are the exact same node object
 
 Do this in O(M + N) time (where M and N are the lengths of the lists) and constant space.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem20.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem20.js)
 
 ---
 
@@ -38,7 +38,7 @@ The list is very long, so making more than one pass is prohibitively expensive.
 
 Do this in constant space and in one pass.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem26.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem26.js)
 
 ---
 
@@ -48,7 +48,7 @@ This problem was asked by Google.
 
 Given the head of a singly linked list, reverse it in-place.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem73.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem73.js)
 
 ---
 
@@ -58,7 +58,7 @@ This problem was asked by Google.
 
 Given k sorted singly linked lists, write a function to merge all the lists into one sorted singly linked list.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem78.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem78.js)
 
 ---
 
@@ -70,6 +70,6 @@ Determine whether a doubly linked list is a palindrome. What if it’s singly li
 
 For example, 1 -> 4 -> 3 -> 4 -> 1 returns true while 1 -> 4 returns false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem104.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem104.js)
 
 ---

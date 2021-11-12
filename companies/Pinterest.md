@@ -8,6 +8,6 @@ Given an integer list where each number represents the number of hops you can ma
 
 For example, [2, 0, 1, 0] returns true while [1, 1, 0, 1] returns false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem106.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem106.js)
 
 ---

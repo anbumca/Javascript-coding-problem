@@ -10,7 +10,7 @@ For example, given the query string de and the set of strings [dog, deer, deal],
 
 Hint: Try preprocessing the dictionary into a more efficient data structure to speed up queries.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem11.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem11.js)
 
 ---
 
@@ -22,6 +22,6 @@ You run an e-commerce website and want to record the last N order ids in a log. 
 - get_last(i): gets the ith last element from the log. i is guaranteed to be smaller than or equal to N.
 You should be as efficient with time and space as possible.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem16.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem16.js)
 
 ---

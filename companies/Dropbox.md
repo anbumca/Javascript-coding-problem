@@ -6,7 +6,7 @@ This problem was asked by Dropbox.
 
 Given the root to a binary search tree, find the second largest node in the tree.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem36.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem36.js)
 
 ---
 
@@ -26,7 +26,7 @@ Implement Conway's Game of Life. It should be able to be initialized with a star
 
 You can represent a live cell with an asterisk (*) and a dead cell with a dot (.).
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem39.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem39.js)
 
 ---
 
@@ -38,7 +38,7 @@ Sudoku is a puzzle where you're given a partially-filled 9 by 9 grid with digits
 
 Implement an efficient sudoku solver.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem54.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem54.js)
 
 ---
 
@@ -57,6 +57,6 @@ for (var i = 0; i < 10; i++) {
 functions.forEach(f => console.log(f()));
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem91.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem91.js)
 
 ---

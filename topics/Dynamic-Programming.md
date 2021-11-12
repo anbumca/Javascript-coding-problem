@@ -10,7 +10,7 @@ For example, the message '111' would give 3, since it could be decoded as 'aaa',
 
 You can assume that the messages are decodable. For example, '001' is not allowed.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem7.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem7.js)
 
 ---
 
@@ -24,7 +24,7 @@ For example, [2, 4, 6, 2, 5] should return 13, since we pick 2, 6, and 5. [5, 1,
 
 Follow-up: Can you do this in O(N) time and constant space?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem9.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem9.js)
 
 ---
 
@@ -44,7 +44,7 @@ For example, if N is 4, then there are 5 unique ways:
 
 What if, instead of being able to climb 1 or 2 steps at a time, you could climb any number from a set of positive integers X? For example, if X = {1, 3, 5}, you could climb 1, 3, or 5 steps at a time.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem12.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem12.js)
 
 ---
 
@@ -56,7 +56,7 @@ A builder is looking to build a row of N houses that can be of K different color
 
 Given an N by K matrix where the nth row and kth column represents the cost to build the nth house with kth color, return the minimum cost which achieves this goal.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem19.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem19.js)
 
 ---
 
@@ -70,7 +70,7 @@ For example, given the set of words 'quick', 'brown', 'the', 'fox', and the stri
 
 Given the set of words 'bed', 'bath', 'bedbath', 'and', 'beyond', and the string "bedbathandbeyond", return either ['bed', 'bath', 'and', 'beyond] or ['bedbath', 'and', 'beyond'].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem22.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem22.js)
 
 ---
 
@@ -88,7 +88,7 @@ For example, given the regular expression "ra." and the string "ray", your funct
 
 Given the regular expression ".*at" and the string "chat", your function should return true. The same regular expression on the string "chats" should return false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem25.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem25.js)
 
 ---
 
@@ -100,7 +100,7 @@ The edit distance between two strings refers to the minimum number of character 
 
 Given two strings, compute the edit distance between them.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem31.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem31.js)
 
 ---
 
@@ -114,7 +114,7 @@ For example, given the string "race", you should return "ecarace", since we can 
 
 As another example, given the string "google", you should return "elgoogle".
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem34.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem34.js)
 
 ---
 
@@ -128,7 +128,7 @@ Integers can appear more than once in the list. You may assume all numbers in th
 
 For example, given S = [12, 1, 61, 5, 9, 2] and k = 24, return [12, 9, 2, 1] since it sums up to 24.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem42.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem42.js)
 
 ---
 
@@ -140,7 +140,7 @@ Given a string, find the longest palindromic contiguous substring. If there are 
 
 For example, the longest palindromic substring of "aabcdcb" is "bcdcb". The longest palindromic substring of "bananas" is "anana".
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem46.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem46.js)
 
 ---
 
@@ -152,7 +152,7 @@ Given a array of numbers representing the stock prices of a company in chronolog
 
 For example, given [9, 11, 8, 5, 7, 10], you should return 5, since you could buy the stock at 5 dollars and sell it at 10 dollars.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem47.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem47.js)
 
 ---
 
@@ -166,7 +166,7 @@ For example, given the multiset {15, 5, 20, 10, 35, 15, 10}, it would return tru
 
 Given the multiset {15, 5, 20, 10, 35}, it would return false, since we can't split it up into two subsets that add up to the same sum.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem60.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem60.js)
 
 ---
 
@@ -180,7 +180,7 @@ Do this faster than the naive method of repeated multiplication.
 
 For example, pow(2, 10) should return 1024.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem61.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem61.js)
 
 ---
 
@@ -197,7 +197,7 @@ For example, given a 2 by 2 matrix, you should return 2, since there are two way
 
 Given a 5 by 5 matrix, there are 70 ways to get to the bottom-right.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem62.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem62.js)
 
 ---
 
@@ -209,6 +209,6 @@ Given an array of numbers, find the length of the longest increasing subsequence
 
 For example, given the array [0, 8, 4, 12, 2, 10, 6, 14, 1, 9, 5, 13, 3, 11, 7, 15], the longest increasing subsequence has length 6: it is 0, 2, 6, 9, 11, 15.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem75.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem75.js)
 
 ---

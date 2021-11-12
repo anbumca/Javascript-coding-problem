@@ -28,7 +28,7 @@ const node = new TreeNode(
 expect(deserialize(serialize(node)).left.left.val).toEqual('left.left'); // Jest Testing
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem3.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem3.js)
 
 ---
 
@@ -52,7 +52,7 @@ For example, the following tree has 5 unival subtrees:
  1   1
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem8.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem8.js)
 
 ---
 
@@ -70,7 +70,7 @@ Design a binary tree node class with the following methods:
 
 You may augment the node to add parent pointers or any other property you would like. You may assume the class is used in a single-threaded program, so there is no need for actual locks or mutexes. Each method should run in O(h), where h is the height of the tree.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem24.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem24.js)
 
 ---
 
@@ -80,7 +80,7 @@ This problem was asked by Dropbox.
 
 Given the root to a binary search tree, find the second largest node in the tree.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem36.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem36.js)
 
 ---
 
@@ -108,7 +108,7 @@ You should return the following tree:
 d  e f  g
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem48.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem48.js)
 
 ---
 
@@ -132,7 +132,7 @@ For example, given the following tree:
 
 You should return 45, as it is (3 + 2) * (4 + 5).
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem50.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem50.js)
 
 ---
 
@@ -149,7 +149,7 @@ Given the root of a binary tree, return a deepest node. For example, in the foll
  /
 d
 ```
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem80.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem80.js)
 
 ---
 
@@ -179,7 +179,7 @@ should become:
   f e  d
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem83.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem83.js)
 
 ---
 
@@ -191,7 +191,7 @@ Determine whether a tree is a valid binary search tree.
 
 A binary search tree is a tree with two children, left and right, and satisfies the constraint that the key in the left child must be less than or equal to the root and the key in the right child must be greater than or equal to the root.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem89.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem89.js)
 
 ---
 
@@ -203,7 +203,7 @@ Given a tree, find the largest tree/subtree that is a BST.
 
 Given a tree, return the size of the largest tree/subtree that is a BST.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem93.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem93.js)
 
 ---
 
@@ -213,7 +213,7 @@ This problem was asked by Google.
 
 Given a binary tree of integers, find the maximum path sum between two nodes. The path must go through at least one node, and does not need to go through the root.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem94.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem94.js)
 
 ---
 
@@ -231,7 +231,7 @@ Print the nodes in a binary tree level-wise. For example, the following should p
   4   5
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem107.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem107.js)
 
 ---
 
@@ -253,6 +253,6 @@ For example, given the tree:
 
 it should return [[1, 2], [1, 3, 4], [1, 3, 5]].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem110.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem110.js)
 
 ---

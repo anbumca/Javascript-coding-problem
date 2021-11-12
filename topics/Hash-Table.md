@@ -10,7 +10,7 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 
 Bonus: Can you do this in one pass?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem1.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem1.js)
 
 ---
 
@@ -22,7 +22,7 @@ Given an integer k and a string s, find the length of the longest substring that
 
 For example, given s = "abcba" and k = 2, the longest substring with k distinct characters is "bcb".
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem13.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem13.js)
 
 ---
 
@@ -68,7 +68,7 @@ The name of a file contains at least a period and an extension.
 The name of a directory or sub-directory will not contain a period.
 
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem17.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem17.js)
 
 ---
 
@@ -83,7 +83,7 @@ Implement a URL shortener with the following methods:
 
 Hint: What if we enter the same URL twice?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem55.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem55.js)
 
 ---
 
@@ -123,7 +123,7 @@ Given a list of integers and a number K, return which contiguous elements of the
 
 For example, if the list is [1, 2, 3, 4, 5] and K is 9, then it should return [2, 3, 4].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem102.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem102.js)
 
 ---
 
@@ -137,7 +137,7 @@ For example, given the string "figehaeci" and the set of characters {a, e, i}, y
 
 If there is no substring containing all the characters in the set, return null.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem103.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem103.js)
 
 ---
 
@@ -149,6 +149,6 @@ Given a word W and a string S, find all starting indices in S which are anagrams
 
 For example, given that W is "ab", and S is "abxaba", return 0, 3, and 4.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem111.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem111.js)
 
 ---

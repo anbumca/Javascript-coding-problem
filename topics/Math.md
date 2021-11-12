@@ -8,7 +8,7 @@ The area of a circle is defined as πr^2. Estimate π to 3 decimal places using 
 
 Hint: The basic equation of a circle is x^2 + y^2 = r^2.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem14.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem14.js)
 
 ---
 
@@ -18,7 +18,7 @@ This problem was asked by Facebook.
 
 Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem15.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem15.js)
 
 ---
 
@@ -32,7 +32,7 @@ Do this faster than the naive method of repeated multiplication.
 
 For example, pow(2, 10) should return 1024.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem61.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem61.js)
 
 ---
 
@@ -46,7 +46,7 @@ For example, if the list is [-10, -10, 5, 2], we should return 500, since that's
 
 You can assume the list has at least three integers.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem69.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem69.js)
 
 ---
 
@@ -60,7 +60,7 @@ Given a positive integer n, return the n-th perfect number.
 
 For example, given 1, you should return 19. Given 2, you should return 28.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem70.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem70.js)
 
 ---
 
@@ -88,7 +88,7 @@ For example, given N = 6 and X = 12, you should return 4, since the multiplicati
 
 And there are 4 12's in the table.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem74.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem74.js)
 
 ---
 
@@ -98,6 +98,6 @@ This question was asked by Wish.
 
 Implement division of two positive integers without using the division, multiplication, or modulus operators. Return the quotient as an integer, ignoring the remainder.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem88.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem88.js)
 
 ---

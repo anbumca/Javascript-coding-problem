@@ -10,7 +10,7 @@ For example, the message '111' would give 3, since it could be decoded as 'aaa',
 
 You can assume that the messages are decodable. For example, '001' is not allowed.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem7.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem7.js)
 
 ---
 
@@ -20,7 +20,7 @@ This problem was asked by Facebook.
 
 Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem15.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem15.js)
 
 ---
 
@@ -32,7 +32,7 @@ A builder is looking to build a row of N houses that can be of K different color
 
 Given an N by K matrix where the nth row and kth column represents the cost to build the nth house with kth color, return the minimum cost which achieves this goal.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem19.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem19.js)
 
 ---
 
@@ -50,7 +50,7 @@ For example, given the regular expression "ra." and the string "ray", your funct
 
 Given the regular expression ".*at" and the string "chat", your function should return true. The same regular expression on the string "chats" should return false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem25.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem25.js)
 
 ---
 
@@ -64,7 +64,7 @@ For example, given the string `"([])[]({})"`, you should return true.
 
 Given the string `"([)]"` or `"((()"`, you should return false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem27.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem27.js)
 
 ---
 
@@ -80,7 +80,7 @@ For example, given the input [2, 1, 2], we can hold 1 unit of water in the middl
 
 Given the input [3, 0, 1, 3, 0, 5], we can hold 3 units in the first index, 2 in the second, and 3 in the fourth index (we cannot hold 5 since it would run off to the left), so we can trap 8 units of water.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem30.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem30.js)
 
 ---
 
@@ -96,7 +96,7 @@ Given the list of flights [('SFO', 'COM'), ('COM', 'YYZ')] and starting airport 
 
 Given the list of flights [('A', 'B'), ('A', 'C'), ('B', 'C'), ('C', 'A')] and starting airport 'A', you should return the list ['A', 'B', 'C', 'A', 'C'] even though ['A', 'C', 'A', 'B', 'C'] is also a valid itinerary. However, the first one is lexicographically smaller.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem41.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem41.js)
 
 ---
 
@@ -108,7 +108,7 @@ Given a array of numbers representing the stock prices of a company in chronolog
 
 For example, given [9, 11, 8, 5, 7, 10], you should return 5, since you could buy the stock at 5 dollars and sell it at 10 dollars.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem47.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem47.js)
 
 ---
 
@@ -122,7 +122,7 @@ It should run in O(N) time.
 
 Hint: Make sure each one of the 52! permutations of the deck is equally likely.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem51.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem51.js)
 
 ---
 
@@ -136,7 +136,7 @@ For example, given the multiset {15, 5, 20, 10, 35, 15, 10}, it would return tru
 
 Given the multiset {15, 5, 20, 10, 35}, it would return false, since we can't split it up into two subsets that add up to the same sum.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem60.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem60.js)
 
 ---
 
@@ -153,7 +153,7 @@ For example, given a 2 by 2 matrix, you should return 2, since there are two way
 
 Given a 5 by 5 matrix, there are 70 ways to get to the bottom-right.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem62.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem62.js)
 
 ---
 
@@ -167,7 +167,7 @@ For example, if the list is [-10, -10, 5, 2], we should return 500, since that's
 
 You can assume the list has at least three integers.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem69.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem69.js)
 
 ---
 
@@ -181,7 +181,7 @@ For example, given the array [10, 5, 7], you should return true, since we can mo
 
 Given the array [10, 5, 1], you should return false, since we can't modify any one element to get a non-decreasing array.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem79.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem79.js)
 
 ---
 
@@ -191,7 +191,7 @@ This problem was asked by Facebook.
 
 Given three 32-bit integers x, y, and b, return x if b is 1 and y if b is 0, using only mathematical or bit operations. You can assume b can only be 1 or 0.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem85.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem85.js)
 
 ---
 
@@ -203,7 +203,7 @@ Given a function f, and N return a debounced f of N milliseconds.
 
 That is, as long as the debounced f continues to be invoked, f itself will not be called for N milliseconds.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem105.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem105.js)
 
 ---
 
@@ -225,6 +225,6 @@ For example, given the tree:
 
 it should return [[1, 2], [1, 3, 4], [1, 3, 5]].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem110.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem110.js)
 
 ---

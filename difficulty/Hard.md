@@ -10,7 +10,7 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120
 
 Follow-up: what if you can't use division?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem2.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem2.js)
 
 ---
 
@@ -24,7 +24,7 @@ For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should g
 
 You can modify the input array in-place.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem4.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem4.js)
 
 ---
 
@@ -36,7 +36,7 @@ An XOR linked list is a more memory efficient doubly linked list. Instead of eac
 
 If using a language that has no pointers (such as Javascript), you can assume you have access to getPointer and dereferencePointer functions that converts between nodes and memory addresses.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem6.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem6.js)
 
 ---
 
@@ -50,7 +50,7 @@ For example, [2, 4, 6, 2, 5] should return 13, since we pick 2, 6, and 5. [5, 1,
 
 Follow-up: Can you do this in O(N) time and constant space?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem9.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem9.js)
 
 ---
 
@@ -70,7 +70,7 @@ For example, if N is 4, then there are 5 unique ways:
 
 What if, instead of being able to climb 1 or 2 steps at a time, you could climb any number from a set of positive integers X? For example, if X = {1, 3, 5}, you could climb 1, 3, or 5 steps at a time.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem12.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem12.js)
 
 ---
 
@@ -82,7 +82,7 @@ Given an integer k and a string s, find the length of the longest substring that
 
 For example, given s = "abcba" and k = 2, the longest substring with k distinct characters is "bcb".
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem13.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem13.js)
 
 ---
 
@@ -101,7 +101,7 @@ For example, given array = [10, 5, 2, 7, 8, 7] and k = 3, we should get: [10, 7,
 
 Do this in O(n) time and O(k) space. You can modify the input array in-place and you do not need to store the results. You can simply print them out as you compute them.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem18.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem18.js)
 
 ---
 
@@ -119,7 +119,7 @@ For example, given the regular expression "ra." and the string "ray", your funct
 
 Given the regular expression ".*at" and the string "chat", your function should return true. The same regular expression on the string "chats" should return false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem25.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem25.js)
 
 ---
 
@@ -131,7 +131,7 @@ Suppose you are given a table of currency exchange rates, represented as a 2D ar
 
 There are no transaction costs and you can trade fractional quantities
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem32.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem32.js)
 
 ---
 
@@ -145,7 +145,7 @@ Do this in linear time and in-place.
 
 For example, given the array ['G', 'B', 'R', 'R', 'B', 'R', 'G'], it should become ['R', 'R', 'R', 'G', 'G', 'B', 'B'].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem35.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem35.js)
 
 ---
 
@@ -155,7 +155,7 @@ This problem was asked by Microsoft.
 
 You have an N by N board. Write a function that, given N, returns the number of possible arrangements of the board where N queens can be placed on the board without threatening each other, i.e. no two queens share the same row, column, or diagonal.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem38.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem38.js)
 
 ---
 
@@ -169,7 +169,7 @@ For example, given [6, 1, 3, 3, 3, 6, 6], return 1. Given [13, 19, 13, 13], retu
 
 Do this in O(N) time and O(1) space.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem40.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem40.js)
 
 ---
 
@@ -183,7 +183,7 @@ Integers can appear more than once in the list. You may assume all numbers in th
 
 For example, given S = [12, 1, 61, 5, 9, 2] and k = 24, return [12, 9, 2, 1] since it sums up to 24.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem42.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem42.js)
 
 ---
 
@@ -195,7 +195,7 @@ Given a string, find the longest palindromic contiguous substring. If there are 
 
 For example, the longest palindromic substring of "aabcdcb" is "bcdcb". The longest palindromic substring of "bananas" is "anana".
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem46.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem46.js)
 
 ---
 
@@ -210,7 +210,7 @@ Implement an LRU (Least Recently Used) cache. It should be able to be initialize
 
 Each operation should run in O(1) time.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem52.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem52.js)
 
 ---
 
@@ -222,7 +222,7 @@ Sudoku is a puzzle where you're given a partially-filled 9 by 9 grid with digits
 
 Implement an efficient sudoku solver.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem54.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem54.js)
 
 ---
 
@@ -232,7 +232,7 @@ This problem was asked by Google.
 
 Implement a file syncing algorithm for two computers over a low-bandwidth network. What if we know the files in the two computers are mostly the same?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem59.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem59.js)
 
 ---
 
@@ -244,7 +244,7 @@ A knight's tour is a sequence of moves by a knight on a chessboard such that all
 
 Given N, write a function to return the number of knight's tours on an N by N chessboard.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem64.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem64.js)
 
 ---
 
@@ -259,6 +259,6 @@ Implement an LFU (Least Frequently Used) cache. It should be able to be initiali
 
 Each operation should run in O(1) time
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem67.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem67.js)
 
 ---

@@ -10,7 +10,7 @@ For example, [2, 4, 6, 2, 5] should return 13, since we pick 2, 6, and 5. [5, 1,
 
 Follow-up: Can you do this in O(N) time and constant space?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem9.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem9.js)
 
 ---
 
@@ -24,6 +24,6 @@ Return null if there is no such ordering.
 
 For example, given {'CSC300': ['CSC100', 'CSC200'], 'CSC200': ['CSC100'], 'CSC100': []}, should return ['CSC100', 'CSC200', 'CSCS300'].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem92.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem92.js)
 
 ---

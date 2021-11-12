@@ -15,7 +15,7 @@
 // Space complexity: O(V^2)
 // V is the number of vertex in the graph
 
-// Example: https://github.com/Li-Victor/daily-coding-problem/blob/master/assets/Arbitrage.png
+// Example: https://github.com/anbumca/Javascript-coding-problem/blob/master/assets/Arbitrage.png
 
 /**
  * Determines if there is a possible arbitrage

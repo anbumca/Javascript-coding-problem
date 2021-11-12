@@ -20,7 +20,7 @@ For example, given the list of words ["the", "quick", "brown", "fox", "jumps", "
 "the   lazy   dog"] # 4 extra spaces distributed evenly
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem28.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem28.js)
 
 ---
 
@@ -34,6 +34,6 @@ For example, the list [1,2,3] should return [1,3,2]. The list [1,3,2] should ret
 
 Can you perform the operation without allocating extra memory (disregarding the input memory)?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem95.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem95.js)
 
 ---

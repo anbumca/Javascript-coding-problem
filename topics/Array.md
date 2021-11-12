@@ -10,7 +10,7 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 
 Bonus: Can you do this in one pass?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem1.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem1.js)
 
 ---
 
@@ -24,7 +24,7 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120
 
 Follow-up: what if you can't use division?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem2.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem2.js)
 
 ---
 
@@ -38,7 +38,7 @@ For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should g
 
 You can modify the input array in-place.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem4.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem4.js)
 
 ---
 
@@ -52,7 +52,7 @@ For example, [2, 4, 6, 2, 5] should return 13, since we pick 2, 6, and 5. [5, 1,
 
 Follow-up: Can you do this in O(N) time and constant space?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem9.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem9.js)
 
 ---
 
@@ -71,7 +71,7 @@ For example, given array = [10, 5, 2, 7, 8, 7] and k = 3, we should get: [10, 7,
 
 Do this in O(n) time and O(k) space. You can modify the input array in-place and you do not need to store the results. You can simply print them out as you compute them.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem18.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem18.js)
 
 ---
 
@@ -83,7 +83,7 @@ Given an array of time intervals (start, end) for classroom lectures (possibly o
 
 For example, given [(30, 75), (0, 50), (60, 150)], you should return 2.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem21.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem21.js)
 
 ---
 
@@ -105,7 +105,7 @@ For example, given the following board:
 ```
 and start = (3, 0) (bottom left) and end = (0, 0) (top left), the minimum number of steps required to reach the end is 7, since we would need to go through (1, 2) because there is a wall everywhere else on the second row.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem23.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem23.js)
 
 ---
 
@@ -121,7 +121,7 @@ For example, given the input [2, 1, 2], we can hold 1 unit of water in the middl
 
 Given the input [3, 0, 1, 3, 0, 5], we can hold 3 units in the first index, 2 in the second, and 3 in the fourth index (we cannot hold 5 since it would run off to the left), so we can trap 8 units of water.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem30.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem30.js)
 
 ---
 
@@ -133,7 +133,7 @@ Suppose you are given a table of currency exchange rates, represented as a 2D ar
 
 There are no transaction costs and you can trade fractional quantities
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem32.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem32.js)
 
 ---
 
@@ -147,7 +147,7 @@ Do this in linear time and in-place.
 
 For example, given the array ['G', 'B', 'R', 'R', 'B', 'R', 'G'], it should become ['R', 'R', 'R', 'G', 'G', 'B', 'B'].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem35.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem35.js)
 
 ---
 
@@ -161,7 +161,7 @@ For example, given the set {1, 2, 3}, it should return {{}, {1}, {2}, {3}, {1, 2
 
 You may also use a list or array to represent a set.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem37.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem37.js)
 
 ---
 
@@ -181,7 +181,7 @@ Implement Conway's Game of Life. It should be able to be initialized with a star
 
 You can represent a live cell with an asterisk (*) and a dead cell with a dot (.).
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem39.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem39.js)
 
 ---
 
@@ -195,7 +195,7 @@ For example, given [6, 1, 3, 3, 3, 6, 6], return 1. Given [13, 19, 13, 13], retu
 
 Do this in O(N) time and O(1) space.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem40.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem40.js)
 
 ---
 
@@ -209,7 +209,7 @@ Integers can appear more than once in the list. You may assume all numbers in th
 
 For example, given S = [12, 1, 61, 5, 9, 2] and k = 24, return [12, 9, 2, 1] since it sums up to 24.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem42.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem42.js)
 
 ---
 
@@ -225,7 +225,7 @@ You may assume each element in the array is distinct.
 
 For example, a sorted list has zero inversions. The array [2, 4, 1, 3, 5] has three inversions: (2, 1), (4, 1), and (4, 3). The array [5, 4, 3, 2, 1] has ten inversions: every distinct pair forms an inversion.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem44.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem44.js)
 
 ---
 
@@ -237,7 +237,7 @@ Given a array of numbers representing the stock prices of a company in chronolog
 
 For example, given [9, 11, 8, 5, 7, 10], you should return 5, since you could buy the stock at 5 dollars and sell it at 10 dollars.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem47.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem47.js)
 
 ---
 
@@ -253,7 +253,7 @@ Given the array [-5, -1, -8, -9], the maximum sum would be 0, since we would not
 
 Do this in O(N) time.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem49.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem49.js)
 
 ---
 
@@ -267,7 +267,7 @@ It should run in O(N) time.
 
 Hint: Make sure each one of the 52! permutations of the deck is equally likely.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem51.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem51.js)
 
 ---
 
@@ -281,7 +281,7 @@ You can assume that there are no spaces at the ends of the string and that there
 
 For example, given the string "the quick brown fox jumps over the lazy dog" and k = 10, you should return: ["the quick", "brown fox", "jumps over", "the lazy", "dog"]. No string in the list has a length of more than 10.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem57.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem57.js)
 
 ---
 
@@ -302,7 +302,7 @@ For example, given the following matrix:
 
 and the target word 'FOAM', you should return true, since it's the leftmost column. Similarly, given the target word 'MASS', you should return true, since it's the last row.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem63.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem63.js)
 
 ---
 
@@ -314,7 +314,7 @@ A knight's tour is a sequence of moves by a knight on a chessboard such that all
 
 Given N, write a function to return the number of knight's tours on an N by N chessboard.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem64.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem64.js)
 
 ---
 
@@ -358,7 +358,7 @@ You should print out the following:
 12
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem65.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem65.js)
 
 ---
 
@@ -390,7 +390,7 @@ The board would look like this:
 
 You should return 2, since bishops 1 and 3 attack each other, as well as bishops 3 and 4.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem68.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem68.js)
 
 ---
 
@@ -404,7 +404,7 @@ For example, if the list is [-10, -10, 5, 2], we should return 500, since that's
 
 You can assume the list has at least three integers.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem69.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem69.js)
 
 ---
 
@@ -442,7 +442,7 @@ tsr
 ```
 Your function should return 3, since we would need to remove all the columns to order it.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem76.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem76.js)
 
 ---
 
@@ -456,7 +456,7 @@ The input list is not necessarily ordered in any way.
 
 For example, given [(1, 3), (5, 8), (4, 10), (20, 25)], you should return [(1, 3), (4, 10), (20, 25)].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem77.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem77.js)
 
 ---
 
@@ -470,7 +470,7 @@ For example, given the array [10, 5, 7], you should return true, since we can mo
 
 Given the array [10, 5, 1], you should return false, since we can't modify any one element to get a non-decreasing array.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem79.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem79.js)
 
 ---
 
@@ -491,7 +491,7 @@ For example, this matrix has 4 islands.
 1 1 0 0 1
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem83.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem83.js)
 
 ---
 
@@ -505,7 +505,7 @@ For example, the list [1,2,3] should return [1,3,2]. The list [1,3,2] should ret
 
 Can you perform the operation without allocating extra memory (disregarding the input memory)?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem95.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem95.js)
 
 ---
 
@@ -531,7 +531,7 @@ For example, given the following board:
 - exists(board, "SEE") returns true
 - exists(board, "ABCB") returns false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/91-100/Problem98.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/91-100/Problem98.js)
 
 ---
 
@@ -545,7 +545,7 @@ For example, given [100, 4, 200, 1, 3, 2], the longest consecutive element seque
 
 Your algorithm should run in O(n) complexity.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/91-100/Problem99.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/91-100/Problem99.js)
 
 ---
 
@@ -577,7 +577,7 @@ Output: 2
 
 It takes 1 step to move from (0, 0) to (1, 1). It takes one more step to move from (1, 1) to (1, 2).
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/91-100/Problem100.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/91-100/Problem100.js)
 
 ---
 
@@ -589,7 +589,7 @@ Given a list of integers and a number K, return which contiguous elements of the
 
 For example, if the list is [1, 2, 3, 4, 5] and K is 9, then it should return [2, 3, 4].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem102.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem102.js)
 
 ---
 
@@ -601,6 +601,6 @@ Given an integer list where each number represents the number of hops you can ma
 
 For example, [2, 0, 1, 0] returns true while [1, 1, 0, 1] returns false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem106.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem106.js)
 
 ---

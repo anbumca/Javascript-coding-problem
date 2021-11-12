@@ -10,7 +10,7 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 
 Bonus: Can you do this in one pass?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem1.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem1.js)
 
 ---
 
@@ -34,7 +34,7 @@ For example, the following tree has 5 unival subtrees:
  1   1
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem8.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem8.js)
 
 ---
 
@@ -48,7 +48,7 @@ You run an e-commerce website and want to record the last N order ids in a log. 
 - get_last(i): gets the ith last element from the log. i is guaranteed to be smaller than or equal to N.
 You should be as efficient with time and space as possible.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem16.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem16.js)
 
 ---
 
@@ -64,7 +64,7 @@ In this example, assume nodes with the same value are the exact same node object
 
 Do this in O(M + N) time (where M and N are the lengths of the lists) and constant space.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem20.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem20.js)
 
 ---
 
@@ -76,7 +76,7 @@ Given an array of time intervals (start, end) for classroom lectures (possibly o
 
 For example, given [(30, 75), (0, 50), (60, 150)], you should return 2.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem21.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem21.js)
 
 ---
 
@@ -98,7 +98,7 @@ For example, given the following board:
 ```
 and start = (3, 0) (bottom left) and end = (0, 0) (top left), the minimum number of steps required to reach the end is 7, since we would need to go through (1, 2) because there is a wall everywhere else on the second row.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem23.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem23.js)
 
 ---
 
@@ -112,7 +112,7 @@ For example, given the string `"([])[]({})"`, you should return true.
 
 Given the string `"([)]"` or `"((()"`, you should return false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem27.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem27.js)
 
 ---
 
@@ -126,7 +126,7 @@ For example, the string "AAAABBBCCDAA" would be encoded as "4A3B2C1D2A".
 
 Implement run-length encoding and decoding. You can assume the string to be encoded have no digits and consists solely of alphabetic characters. You can assume the string to be decoded is valid.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem29.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem29.js)
 
 ---
 
@@ -138,7 +138,7 @@ The edit distance between two strings refers to the minimum number of character 
 
 Given two strings, compute the edit distance between them.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem31.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem31.js)
 
 ---
 
@@ -160,7 +160,7 @@ For example, given the sequence [2, 1, 5, 7, 2, 0, 5], your algorithm should pri
 - 2
 - 2
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem33.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem33.js)
 
 ---
 
@@ -174,7 +174,7 @@ For example, given the set {1, 2, 3}, it should return {{}, {1}, {2}, {3}, {1, 2
 
 You may also use a list or array to represent a set.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem37.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem37.js)
 
 ---
 
@@ -190,7 +190,7 @@ Implement a stack that has the following methods:
 
 Each method should run in constant time.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem43.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem43.js)
 
 ---
 
@@ -200,7 +200,7 @@ This problem was asked by Two Sigma.
 
 Using a function rand5() that returns an integer from 1 to 5 (inclusive) with uniform probability, implement a function rand7() that returns an integer from 1 to 7 (inclusive).
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem45.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem45.js)
 
 ---
 
@@ -212,7 +212,7 @@ Given a array of numbers representing the stock prices of a company in chronolog
 
 For example, given [9, 11, 8, 5, 7, 10], you should return 5, since you could buy the stock at 5 dollars and sell it at 10 dollars.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem47.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem47.js)
 
 ---
 
@@ -236,7 +236,7 @@ For example, given the following tree:
 
 You should return 45, as it is (3 + 2) * (4 + 5).
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem50.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem50.js)
 
 ---
 
@@ -251,7 +251,7 @@ Implement a URL shortener with the following methods:
 
 Hint: What if we enter the same URL twice?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem55.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem55.js)
 
 ---
 
@@ -272,7 +272,7 @@ For example, given the following matrix:
 
 and the target word 'FOAM', you should return true, since it's the leftmost column. Similarly, given the target word 'MASS', you should return true, since it's the last row.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem63.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem63.js)
 
 ---
 
@@ -316,7 +316,7 @@ You should print out the following:
 12
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem65.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem65.js)
 
 ---
 
@@ -330,7 +330,7 @@ For example, if the list is [-10, -10, 5, 2], we should return 500, since that's
 
 You can assume the list has at least three integers.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem69.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem69.js)
 
 ---
 
@@ -344,6 +344,6 @@ Given a positive integer n, return the n-th perfect number.
 
 For example, given 1, you should return 19. Given 2, you should return 28.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem70.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem70.js)
 
 ---

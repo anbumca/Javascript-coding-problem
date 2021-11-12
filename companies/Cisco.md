@@ -10,6 +10,6 @@ For example, 10101010 should be 01010101. 11100010 should be 11010001.
 
 Bonus: Can you do this in one line?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem109.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem109.js)
 
 ---

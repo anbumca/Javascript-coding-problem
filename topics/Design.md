@@ -19,7 +19,7 @@ function cons(a, b) {
 
 Implement car and cdr.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem5.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem5.js)
 
 ---
 
@@ -31,7 +31,7 @@ An XOR linked list is a more memory efficient doubly linked list. Instead of eac
 
 If using a language that has no pointers (such as Javascript), you can assume you have access to getPointer and dereferencePointer functions that converts between nodes and memory addresses.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem6.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem6.js)
 
 ---
 
@@ -45,7 +45,7 @@ You run an e-commerce website and want to record the last N order ids in a log. 
 - get_last(i): gets the ith last element from the log. i is guaranteed to be smaller than or equal to N.
 You should be as efficient with time and space as possible.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem16.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem16.js)
 
 ---
 
@@ -63,7 +63,7 @@ Design a binary tree node class with the following methods:
 
 You may augment the node to add parent pointers or any other property you would like. You may assume the class is used in a single-threaded program, so there is no need for actual locks or mutexes. Each method should run in O(h), where h is the height of the tree.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem24.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem24.js)
 
 ---
 
@@ -85,7 +85,7 @@ For example, given the sequence [2, 1, 5, 7, 2, 0, 5], your algorithm should pri
 - 2
 - 2
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem33.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem33.js)
 
 ---
 
@@ -101,7 +101,7 @@ Implement a stack that has the following methods:
 
 Each method should run in constant time.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem43.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem43.js)
 
 ---
 
@@ -111,7 +111,7 @@ This problem was asked by Two Sigma.
 
 Using a function rand5() that returns an integer from 1 to 5 (inclusive) with uniform probability, implement a function rand7() that returns an integer from 1 to 7 (inclusive).
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem45.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem45.js)
 
 ---
 
@@ -126,7 +126,7 @@ Implement an LRU (Least Recently Used) cache. It should be able to be initialize
 
 Each operation should run in O(1) time.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem52.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem52.js)
 
 ---
 
@@ -136,7 +136,7 @@ This problem was asked by Apple.
 
 Implement a queue using two stacks. Recall that a queue is a FIFO (first-in, first-out) data structure with the following methods: enqueue, which inserts an element into the queue, and dequeue, which removes it.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem53.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem53.js)
 
 ---
 
@@ -151,7 +151,7 @@ Implement a URL shortener with the following methods:
 
 Hint: What if we enter the same URL twice?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem55.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem55.js)
 
 ---
 
@@ -161,7 +161,7 @@ This problem was asked by Google.
 
 Implement a file syncing algorithm for two computers over a low-bandwidth network. What if we know the files in the two computers are mostly the same?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem59.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem59.js)
 
 ---
 
@@ -173,7 +173,7 @@ Assume you have access to a function toss_biased() which returns 0 or 1 with a p
 
 Write a function to simulate an unbiased coin toss.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem66.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem66.js)
 
 ---
 
@@ -188,7 +188,7 @@ Implement an LFU (Least Frequently Used) cache. It should be able to be initiali
 
 Each operation should run in O(1) time
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem67.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem67.js)
 
 ---
 
@@ -198,7 +198,7 @@ This problem was asked by Two Sigma.
 
 Using a function rand7() that returns an integer from 1 to 7 (inclusive) with uniform probability, implement a function rand5() that returns an integer from 1 to 5 (inclusive).
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem71.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem71.js)
 
 ---
 
@@ -210,7 +210,7 @@ Using a read7() method that returns 7 characters from a file, implement readN(n)
 
 For example, given a file with the content “Hello world”, three read7() returns “Hello w”, “orld” and then “”.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem82.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem82.js)
 
 ---
 
@@ -229,6 +229,6 @@ for (var i = 0; i < 10; i++) {
 functions.forEach(f => console.log(f()));
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem91.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem91.js)
 
 ---

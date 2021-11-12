@@ -24,7 +24,7 @@ describe('Problems 31 - 40', () => {
     expect(doesArbitrageExist([[3, 4], [4, 3]])).toBe(true);
     expect(doesArbitrageExist([[3, 3], [3, 3]])).toBe(false);
 
-    // https://github.com/Li-Victor/daily-coding-problem/blob/master/assets/Arbitrage.png
+    // https://github.com/anbumca/Javascript-coding-problem/blob/master/assets/Arbitrage.png
     expect(
       doesArbitrageExist([
         [1, 0.8123, 0.6404, 78.125, 0.9784, 0.9924, 0.9465],

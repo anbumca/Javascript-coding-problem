@@ -20,7 +20,7 @@ function cons(a, b) {
 
 Implement car and cdr.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem5.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem5.js)
 
 ---
 
@@ -30,7 +30,7 @@ This problem was asked by Apple.
 
 Implement a job scheduler which takes in a function f and an integer n, and calls f after n milliseconds.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem10.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem10.js)
 
 ---
 
@@ -42,6 +42,6 @@ Given a function f, and N return a debounced f of N milliseconds.
 
 That is, as long as the debounced f continues to be invoked, f itself will not be called for N milliseconds.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem105.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem105.js)
 
 ---

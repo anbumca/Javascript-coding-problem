@@ -10,7 +10,7 @@ For example, given the set of words 'quick', 'brown', 'the', 'fox', and the stri
 
 Given the set of words 'bed', 'bath', 'bedbath', 'and', 'beyond', and the string "bedbathandbeyond", return either ['bed', 'bath', 'and', 'beyond] or ['bedbath', 'and', 'beyond'].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem22.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem22.js)
 
 ---
 
@@ -32,7 +32,7 @@ For example, given the sequence [2, 1, 5, 7, 2, 0, 5], your algorithm should pri
 - 2
 - 2
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem33.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem33.js)
 
 ---
 
@@ -42,7 +42,7 @@ This problem was asked by Microsoft.
 
 You have an N by N board. Write a function that, given N, returns the number of possible arrangements of the board where N queens can be placed on the board without threatening each other, i.e. no two queens share the same row, column, or diagonal.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem38.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem38.js)
 
 ---
 
@@ -66,7 +66,7 @@ For example, given the following tree:
 
 You should return 45, as it is (3 + 2) * (4 + 5).
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem50.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem50.js)
 
 ---
 
@@ -81,7 +81,7 @@ Implement a URL shortener with the following methods:
 
 Hint: What if we enter the same URL twice?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem55.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem55.js)
 
 ---
 
@@ -102,7 +102,7 @@ For example, given the following matrix:
 
 and the target word 'FOAM', you should return true, since it's the leftmost column. Similarly, given the target word 'MASS', you should return true, since it's the last row.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem63.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem63.js)
 
 ---
 
@@ -116,7 +116,7 @@ Given a positive integer n, return the n-th perfect number.
 
 For example, given 1, you should return 19. Given 2, you should return 28.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem70.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem70.js)
 
 ---
 
@@ -128,7 +128,7 @@ Given an array of numbers, find the length of the longest increasing subsequence
 
 For example, given the array [0, 8, 4, 12, 2, 10, 6, 14, 1, 9, 5, 13, 3, 11, 7, 15], the longest increasing subsequence has length 6: it is 0, 2, 6, 9, 11, 15.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem75.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem75.js)
 
 ---
 
@@ -140,7 +140,7 @@ Using a read7() method that returns 7 characters from a file, implement readN(n)
 
 For example, given a file with the content “Hello world”, three read7() returns “Hello w”, “orld” and then “”.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem82.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem82.js)
 
 ---
 
@@ -152,7 +152,7 @@ Given a number in the form of a list of digits, return all possible permutations
 
 For example, given [1,2,3], return [[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem96.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem96.js)
 
 ---
 
@@ -166,7 +166,7 @@ For example, given [100, 4, 200, 1, 3, 2], the longest consecutive element seque
 
 Your algorithm should run in O(n) complexity.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/91-100/Problem99.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/91-100/Problem99.js)
 
 ---
 
@@ -184,6 +184,6 @@ Print the nodes in a binary tree level-wise. For example, the following should p
   4   5
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem107.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem107.js)
 
 ---

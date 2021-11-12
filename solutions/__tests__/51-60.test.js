@@ -86,7 +86,7 @@ describe('Problems 51 - 60', () => {
     expect(kColors(graph, 4)).toBe(false);
     expect(kColors(graph, 3)).toBe(false);
 
-    // https://github.com/Li-Victor/daily-coding-problem/blob/master/assets/Graph-Coloring.png
+    // https://github.com/anbumca/Javascript-coding-problem/blob/master/assets/Graph-Coloring.png
     // top down left to right
 
     const graph1 = [

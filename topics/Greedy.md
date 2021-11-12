@@ -8,7 +8,7 @@ Given an array of time intervals (start, end) for classroom lectures (possibly o
 
 For example, given [(30, 75), (0, 50), (60, 150)], you should return 2.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem21.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem21.js)
 
 ---
 
@@ -24,7 +24,7 @@ Given the array [-5, -1, -8, -9], the maximum sum would be 0, since we would not
 
 Do this in O(N) time.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem49.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem49.js)
 
 ---
 
@@ -38,7 +38,7 @@ You can assume that there are no spaces at the ends of the string and that there
 
 For example, given the string "the quick brown fox jumps over the lazy dog" and k = 10, you should return: ["the quick", "brown fox", "jumps over", "the lazy", "dog"]. No string in the list has a length of more than 10.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem57.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem57.js)
 
 ---
 
@@ -52,7 +52,7 @@ For example, given the array [10, 5, 7], you should return true, since we can mo
 
 Given the array [10, 5, 1], you should return false, since we can't modify any one element to get a non-decreasing array.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem79.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem79.js)
 
 ---
 
@@ -64,7 +64,7 @@ Given a string of parentheses, write a function to compute the minimum number of
 
 For example, given the string "()())()", you should return 1. Given the string ")(", you should return 2, since we must remove all of them.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem86.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem86.js)
 
 ---
 
@@ -76,6 +76,6 @@ Given an integer list where each number represents the number of hops you can ma
 
 For example, [2, 0, 1, 0] returns true while [1, 1, 0, 1] returns false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem106.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem106.js)
 
 ---

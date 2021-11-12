@@ -19,6 +19,6 @@ If [a, b] is one solution with a <= b, and [c, d] is another solution with c <= 
 [a, b] < [c, d]
 If a < c OR a==c AND b < d.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem101.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem101.js)
 
 ---

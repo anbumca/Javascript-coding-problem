@@ -31,6 +31,6 @@ A
 
 Should return null, since we have an infinite loop.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem72.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem72.js)
 
 ---

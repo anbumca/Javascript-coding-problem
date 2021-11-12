@@ -20,7 +20,7 @@ function cons(a, b) {
 
 Implement car and cdr.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem5.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem5.js)
 
 ---
 
@@ -32,6 +32,6 @@ Suppose you are given a table of currency exchange rates, represented as a 2D ar
 
 There are no transaction costs and you can trade fractional quantities
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem32.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem32.js)
 
 ---

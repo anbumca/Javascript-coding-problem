@@ -18,7 +18,7 @@ For example, given the following board:
 ```
 and start = (3, 0) (bottom left) and end = (0, 0) (top left), the minimum number of steps required to reach the end is 7, since we would need to go through (1, 2) because there is a wall everywhere else on the second row.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem23.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem23.js)
 
 ---
 
@@ -30,7 +30,7 @@ Suppose you are given a table of currency exchange rates, represented as a 2D ar
 
 There are no transaction costs and you can trade fractional quantities
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem32.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem32.js)
 
 ---
 
@@ -46,7 +46,7 @@ Given the list of flights [('SFO', 'COM'), ('COM', 'YYZ')] and starting airport 
 
 Given the list of flights [('A', 'B'), ('A', 'C'), ('B', 'C'), ('C', 'A')] and starting airport 'A', you should return the list ['A', 'B', 'C', 'A', 'C'] even though ['A', 'C', 'A', 'B', 'C'] is also a valid itinerary. However, the first one is lexicographically smaller.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem41.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem41.js)
 
 ---
 
@@ -56,7 +56,7 @@ This problem was asked by Google.
 
 Given an undirected graph represented as an adjacency matrix and an integer k, write a function to determine whether each vertex in the graph can be colored such that no two adjacent vertices share the same color using at most k colors.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem56.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem56.js)
 
 ---
 
@@ -91,7 +91,7 @@ A
 
 Should return null, since we have an infinite loop.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem72.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem72.js)
 
 ---
 
@@ -112,7 +112,7 @@ For example, this matrix has 4 islands.
 1 1 0 0 1
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem83.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem83.js)
 
 ---
 
@@ -150,7 +150,7 @@ A N B
 ```
 is considered valid.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem87.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem87.js)
 
 ---
 
@@ -164,7 +164,7 @@ Return null if there is no such ordering.
 
 For example, given {'CSC300': ['CSC100', 'CSC200'], 'CSC200': ['CSC100'], 'CSC100': []}, should return ['CSC100', 'CSC200', 'CSCS300'].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem92.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem92.js)
 
 ---
 
@@ -190,6 +190,6 @@ For example, given the following board:
 - exists(board, "SEE") returns true
 - exists(board, "ABCB") returns false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/91-100/Problem98.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/91-100/Problem98.js)
 
 ---

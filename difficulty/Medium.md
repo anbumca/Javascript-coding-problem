@@ -28,7 +28,7 @@ const node = new TreeNode(
 expect(deserialize(serialize(node)).left.left.val).toEqual('left.left'); // Jest Testing
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem3.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem3.js)
 
 ---
 
@@ -51,7 +51,7 @@ function cons(a, b) {
 
 Implement car and cdr.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem5.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem5.js)
 
 ---
 
@@ -65,7 +65,7 @@ For example, the message '111' would give 3, since it could be decoded as 'aaa',
 
 You can assume that the messages are decodable. For example, '001' is not allowed.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem7.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem7.js)
 
 ---
 
@@ -75,7 +75,7 @@ This problem was asked by Apple.
 
 Implement a job scheduler which takes in a function f and an integer n, and calls f after n milliseconds.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem10.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem10.js)
 
 ---
 
@@ -89,7 +89,7 @@ For example, given the query string de and the set of strings [dog, deer, deal],
 
 Hint: Try preprocessing the dictionary into a more efficient data structure to speed up queries.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem11.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem11.js)
 
 ---
 
@@ -101,7 +101,7 @@ The area of a circle is defined as πr^2. Estimate π to 3 decimal places using 
 
 Hint: The basic equation of a circle is x2 + y2 = r2.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem14.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem14.js)
 
 ---
 
@@ -111,7 +111,7 @@ This problem was asked by Facebook.
 
 Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem15.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem15.js)
 
 ---
 
@@ -157,7 +157,7 @@ The name of a file contains at least a period and an extension.
 The name of a directory or sub-directory will not contain a period.
 
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem17.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem17.js)
 
 ---
 
@@ -169,7 +169,7 @@ A builder is looking to build a row of N houses that can be of K different color
 
 Given an N by K matrix where the nth row and kth column represents the cost to build the nth house with kth color, return the minimum cost which achieves this goal.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem19.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem19.js)
 
 ---
 
@@ -183,7 +183,7 @@ For example, given the set of words 'quick', 'brown', 'the', 'fox', and the stri
 
 Given the set of words 'bed', 'bath', 'bedbath', 'and', 'beyond', and the string "bedbathandbeyond", return either ['bed', 'bath', 'and', 'beyond] or ['bedbath', 'and', 'beyond'].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem22.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem22.js)
 
 ---
 
@@ -201,7 +201,7 @@ Design a binary tree node class with the following methods:
 
 You may augment the node to add parent pointers or any other property you would like. You may assume the class is used in a single-threaded program, so there is no need for actual locks or mutexes. Each method should run in O(h), where h is the height of the tree.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem24.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem24.js)
 
 ---
 
@@ -215,7 +215,7 @@ The list is very long, so making more than one pass is prohibitively expensive.
 
 Do this in constant space and in one pass.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem26.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem26.js)
 
 ---
 
@@ -239,7 +239,7 @@ For example, given the list of words ["the", "quick", "brown", "fox", "jumps", "
 "the   lazy   dog"] # 4 extra spaces distributed evenly
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem28.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem28.js)
 
 ---
 
@@ -255,7 +255,7 @@ For example, given the input [2, 1, 2], we can hold 1 unit of water in the middl
 
 Given the input [3, 0, 1, 3, 0, 5], we can hold 3 units in the first index, 2 in the second, and 3 in the fourth index (we cannot hold 5 since it would run off to the left), so we can trap 8 units of water.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem30.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem30.js)
 
 ---
 
@@ -269,7 +269,7 @@ For example, given the string "race", you should return "ecarace", since we can 
 
 As another example, given the string "google", you should return "elgoogle".
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem34.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem34.js)
 
 ---
 
@@ -279,7 +279,7 @@ This problem was asked by Dropbox.
 
 Given the root to a binary search tree, find the second largest node in the tree.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem36.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem36.js)
 
 ---
 
@@ -299,7 +299,7 @@ Implement Conway's Game of Life. It should be able to be initialized with a star
 
 You can represent a live cell with an asterisk (*) and a dead cell with a dot (.).
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem39.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem39.js)
 
 ---
 
@@ -315,7 +315,7 @@ Given the list of flights [('SFO', 'COM'), ('COM', 'YYZ')] and starting airport 
 
 Given the list of flights [('A', 'B'), ('A', 'C'), ('B', 'C'), ('C', 'A')] and starting airport 'A', you should return the list ['A', 'B', 'C', 'A', 'C'] even though ['A', 'C', 'A', 'B', 'C'] is also a valid itinerary. However, the first one is lexicographically smaller.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem41.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem41.js)
 
 ---
 
@@ -331,7 +331,7 @@ You may assume each element in the array is distinct.
 
 For example, a sorted list has zero inversions. The array [2, 4, 1, 3, 5] has three inversions: (2, 1), (4, 1), and (4, 3). The array [5, 4, 3, 2, 1] has ten inversions: every distinct pair forms an inversion.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem44.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem44.js)
 
 ---
 
@@ -359,7 +359,7 @@ You should return the following tree:
 d  e f  g
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem48.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem48.js)
 
 ---
 
@@ -375,7 +375,7 @@ Given the array [-5, -1, -8, -9], the maximum sum would be 0, since we would not
 
 Do this in O(N) time.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem49.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem49.js)
 
 ---
 
@@ -389,7 +389,7 @@ It should run in O(N) time.
 
 Hint: Make sure each one of the 52! permutations of the deck is equally likely.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem51.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem51.js)
 
 ---
 
@@ -399,7 +399,7 @@ This problem was asked by Apple.
 
 Implement a queue using two stacks. Recall that a queue is a FIFO (first-in, first-out) data structure with the following methods: enqueue, which inserts an element into the queue, and dequeue, which removes it.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem53.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem53.js)
 
 ---
 
@@ -409,7 +409,7 @@ This problem was asked by Google.
 
 Given an undirected graph represented as an adjacency matrix and an integer k, write a function to determine whether each vertex in the graph can be colored such that no two adjacent vertices share the same color using at most k colors.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem56.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem56.js)
 
 ---
 
@@ -423,7 +423,7 @@ You can assume that there are no spaces at the ends of the string and that there
 
 For example, given the string "the quick brown fox jumps over the lazy dog" and k = 10, you should return: ["the quick", "brown fox", "jumps over", "the lazy", "dog"]. No string in the list has a length of more than 10.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem57.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem57.js)
 
 ---
 
@@ -439,7 +439,7 @@ For example, given the array [13, 18, 25, 2, 8, 10] and the element 8, return 4 
 
 You can assume all the integers in the array are unique.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem58.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem58.js)
 
 ---
 
@@ -453,7 +453,7 @@ For example, given the multiset {15, 5, 20, 10, 35, 15, 10}, it would return tru
 
 Given the multiset {15, 5, 20, 10, 35}, it would return false, since we can't split it up into two subsets that add up to the same sum.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem60.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem60.js)
 
 ---
 
@@ -467,7 +467,7 @@ Do this faster than the naive method of repeated multiplication.
 
 For example, pow(2, 10) should return 1024.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem61.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem61.js)
 
 ---
 
@@ -484,7 +484,7 @@ For example, given a 2 by 2 matrix, you should return 2, since there are two way
 
 Given a 5 by 5 matrix, there are 70 ways to get to the bottom-right.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem62.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem62.js)
 
 ---
 
@@ -496,7 +496,7 @@ Assume you have access to a function toss_biased() which returns 0 or 1 with a p
 
 Write a function to simulate an unbiased coin toss.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem66.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem66.js)
 
 ---
 
@@ -528,6 +528,6 @@ The board would look like this:
 
 You should return 2, since bishops 1 and 3 attack each other, as well as bishops 3 and 4.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem68.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem68.js)
 
 ---

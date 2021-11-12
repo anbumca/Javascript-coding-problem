@@ -12,7 +12,7 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 
 Bonus: Can you do this in one pass?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem1.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem1.js)
 
 ---
 
@@ -26,7 +26,7 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120
 
 Follow-up: what if you can't use division?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem2.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem2.js)
 
 ---
 
@@ -58,7 +58,7 @@ const node = new TreeNode(
 expect(deserialize(serialize(node)).left.left.val).toEqual('left.left'); // Jest Testing
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem3.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem3.js)
 
 ---
 
@@ -72,7 +72,7 @@ For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should g
 
 You can modify the input array in-place.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem4.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem4.js)
 
 ---
 
@@ -95,7 +95,7 @@ function cons(a, b) {
 
 Implement car and cdr.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem5.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem5.js)
 
 ---
 
@@ -107,7 +107,7 @@ An XOR linked list is a more memory efficient doubly linked list. Instead of eac
 
 If using a language that has no pointers (such as Javascript), you can assume you have access to getPointer and dereferencePointer functions that converts between nodes and memory addresses.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem6.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem6.js)
 
 ---
 
@@ -121,7 +121,7 @@ For example, the message '111' would give 3, since it could be decoded as 'aaa',
 
 You can assume that the messages are decodable. For example, '001' is not allowed.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem7.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem7.js)
 
 ---
 
@@ -145,7 +145,7 @@ For example, the following tree has 5 unival subtrees:
  1   1
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem8.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem8.js)
 
 ---
 
@@ -159,7 +159,7 @@ For example, [2, 4, 6, 2, 5] should return 13, since we pick 2, 6, and 5. [5, 1,
 
 Follow-up: Can you do this in O(N) time and constant space?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem9.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem9.js)
 
 ---
 
@@ -169,7 +169,7 @@ This problem was asked by Apple.
 
 Implement a job scheduler which takes in a function f and an integer n, and calls f after n milliseconds.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/1-10/Problem10.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/1-10/Problem10.js)
 
 ---
 
@@ -183,7 +183,7 @@ For example, given the query string de and the set of strings [dog, deer, deal],
 
 Hint: Try preprocessing the dictionary into a more efficient data structure to speed up queries.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem11.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem11.js)
 
 ---
 
@@ -203,7 +203,7 @@ For example, if N is 4, then there are 5 unique ways:
 
 What if, instead of being able to climb 1 or 2 steps at a time, you could climb any number from a set of positive integers X? For example, if X = {1, 3, 5}, you could climb 1, 3, or 5 steps at a time.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem12.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem12.js)
 
 ---
 
@@ -215,7 +215,7 @@ Given an integer k and a string s, find the length of the longest substring that
 
 For example, given s = "abcba" and k = 2, the longest substring with k distinct characters is "bcb".
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem13.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem13.js)
 
 ---
 
@@ -227,7 +227,7 @@ The area of a circle is defined as πr^2. Estimate π to 3 decimal places using 
 
 Hint: The basic equation of a circle is x2 + y2 = r2.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem14.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem14.js)
 
 ---
 
@@ -237,7 +237,7 @@ This problem was asked by Facebook.
 
 Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem15.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem15.js)
 
 ---
 
@@ -251,7 +251,7 @@ You run an e-commerce website and want to record the last N order ids in a log. 
 - get_last(i): gets the ith last element from the log. i is guaranteed to be smaller than or equal to N.
 You should be as efficient with time and space as possible.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem16.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem16.js)
 
 ---
 
@@ -297,7 +297,7 @@ The name of a file contains at least a period and an extension.
 The name of a directory or sub-directory will not contain a period.
 
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem17.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem17.js)
 
 ---
 
@@ -316,7 +316,7 @@ For example, given array = [10, 5, 2, 7, 8, 7] and k = 3, we should get: [10, 7,
 
 Do this in O(n) time and O(k) space. You can modify the input array in-place and you do not need to store the results. You can simply print them out as you compute them.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem18.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem18.js)
 
 ---
 
@@ -328,7 +328,7 @@ A builder is looking to build a row of N houses that can be of K different color
 
 Given an N by K matrix where the nth row and kth column represents the cost to build the nth house with kth color, return the minimum cost which achieves this goal.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem19.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem19.js)
 
 ---
 
@@ -344,7 +344,7 @@ In this example, assume nodes with the same value are the exact same node object
 
 Do this in O(M + N) time (where M and N are the lengths of the lists) and constant space.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/11-20/Problem20.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/11-20/Problem20.js)
 
 ---
 
@@ -356,7 +356,7 @@ Given an array of time intervals (start, end) for classroom lectures (possibly o
 
 For example, given [(30, 75), (0, 50), (60, 150)], you should return 2.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem21.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem21.js)
 
 ---
 
@@ -370,7 +370,7 @@ For example, given the set of words 'quick', 'brown', 'the', 'fox', and the stri
 
 Given the set of words 'bed', 'bath', 'bedbath', 'and', 'beyond', and the string "bedbathandbeyond", return either ['bed', 'bath', 'and', 'beyond] or ['bedbath', 'and', 'beyond'].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem22.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem22.js)
 
 ---
 
@@ -392,7 +392,7 @@ For example, given the following board:
 ```
 and start = (3, 0) (bottom left) and end = (0, 0) (top left), the minimum number of steps required to reach the end is 7, since we would need to go through (1, 2) because there is a wall everywhere else on the second row.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem23.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem23.js)
 
 ---
 
@@ -410,7 +410,7 @@ Design a binary tree node class with the following methods:
 
 You may augment the node to add parent pointers or any other property you would like. You may assume the class is used in a single-threaded program, so there is no need for actual locks or mutexes. Each method should run in O(h), where h is the height of the tree.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem24.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem24.js)
 
 ---
 
@@ -428,7 +428,7 @@ For example, given the regular expression "ra." and the string "ray", your funct
 
 Given the regular expression ".*at" and the string "chat", your function should return true. The same regular expression on the string "chats" should return false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem25.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem25.js)
 
 ---
 
@@ -442,7 +442,7 @@ The list is very long, so making more than one pass is prohibitively expensive.
 
 Do this in constant space and in one pass.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem26.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem26.js)
 
 ---
 
@@ -456,7 +456,7 @@ For example, given the string `"([])[]({})"`, you should return true.
 
 Given the string `"([)]"` or `"((()"`, you should return false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem27.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem27.js)
 
 ---
 
@@ -480,7 +480,7 @@ For example, given the list of words ["the", "quick", "brown", "fox", "jumps", "
 "the   lazy   dog"] # 4 extra spaces distributed evenly
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem28.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem28.js)
 
 ---
 
@@ -494,7 +494,7 @@ For example, the string "AAAABBBCCDAA" would be encoded as "4A3B2C1D2A".
 
 Implement run-length encoding and decoding. You can assume the string to be encoded have no digits and consists solely of alphabetic characters. You can assume the string to be decoded is valid.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem29.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem29.js)
 
 ---
 
@@ -510,7 +510,7 @@ For example, given the input [2, 1, 2], we can hold 1 unit of water in the middl
 
 Given the input [3, 0, 1, 3, 0, 5], we can hold 3 units in the first index, 2 in the second, and 3 in the fourth index (we cannot hold 5 since it would run off to the left), so we can trap 8 units of water.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/21-30/Problem30.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/21-30/Problem30.js)
 
 ---
 
@@ -522,7 +522,7 @@ The edit distance between two strings refers to the minimum number of character 
 
 Given two strings, compute the edit distance between them.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem31.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem31.js)
 
 ---
 
@@ -534,7 +534,7 @@ Suppose you are given a table of currency exchange rates, represented as a 2D ar
 
 There are no transaction costs and you can trade fractional quantities
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem32.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem32.js)
 
 ---
 
@@ -556,7 +556,7 @@ For example, given the sequence [2, 1, 5, 7, 2, 0, 5], your algorithm should pri
 - 2
 - 2
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem33.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem33.js)
 
 ---
 
@@ -570,7 +570,7 @@ For example, given the string "race", you should return "ecarace", since we can 
 
 As another example, given the string "google", you should return "elgoogle".
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem34.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem34.js)
 
 ---
 
@@ -584,7 +584,7 @@ Do this in linear time and in-place.
 
 For example, given the array ['G', 'B', 'R', 'R', 'B', 'R', 'G'], it should become ['R', 'R', 'R', 'G', 'G', 'B', 'B'].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem35.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem35.js)
 
 ---
 
@@ -594,7 +594,7 @@ This problem was asked by Dropbox.
 
 Given the root to a binary search tree, find the second largest node in the tree.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem36.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem36.js)
 
 ---
 
@@ -608,7 +608,7 @@ For example, given the set {1, 2, 3}, it should return {{}, {1}, {2}, {3}, {1, 2
 
 You may also use a list or array to represent a set.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem37.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem37.js)
 
 ---
 
@@ -618,7 +618,7 @@ This problem was asked by Microsoft.
 
 You have an N by N board. Write a function that, given N, returns the number of possible arrangements of the board where N queens can be placed on the board without threatening each other, i.e. no two queens share the same row, column, or diagonal.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem38.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem38.js)
 
 ---
 
@@ -638,7 +638,7 @@ Implement Conway's Game of Life. It should be able to be initialized with a star
 
 You can represent a live cell with an asterisk (*) and a dead cell with a dot (.).
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem39.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem39.js)
 
 ---
 
@@ -652,7 +652,7 @@ For example, given [6, 1, 3, 3, 3, 6, 6], return 1. Given [13, 19, 13, 13], retu
 
 Do this in O(N) time and O(1) space.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem40.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem40.js)
 
 ---
 
@@ -668,7 +668,7 @@ Given the list of flights [('SFO', 'COM'), ('COM', 'YYZ')] and starting airport 
 
 Given the list of flights [('A', 'B'), ('A', 'C'), ('B', 'C'), ('C', 'A')] and starting airport 'A', you should return the list ['A', 'B', 'C', 'A', 'C'] even though ['A', 'C', 'A', 'B', 'C'] is also a valid itinerary. However, the first one is lexicographically smaller.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem41.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem41.js)
 
 ---
 
@@ -682,7 +682,7 @@ Integers can appear more than once in the list. You may assume all numbers in th
 
 For example, given S = [12, 1, 61, 5, 9, 2] and k = 24, return [12, 9, 2, 1] since it sums up to 24.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem42.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem42.js)
 
 ---
 
@@ -698,7 +698,7 @@ Implement a stack that has the following methods:
 
 Each method should run in constant time.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem43.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem43.js)
 
 ---
 
@@ -714,7 +714,7 @@ You may assume each element in the array is distinct.
 
 For example, a sorted list has zero inversions. The array [2, 4, 1, 3, 5] has three inversions: (2, 1), (4, 1), and (4, 3). The array [5, 4, 3, 2, 1] has ten inversions: every distinct pair forms an inversion.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem44.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem44.js)
 
 ---
 
@@ -724,7 +724,7 @@ This problem was asked by Two Sigma.
 
 Using a function rand5() that returns an integer from 1 to 5 (inclusive) with uniform probability, implement a function rand7() that returns an integer from 1 to 7 (inclusive).
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem45.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem45.js)
 
 ---
 
@@ -736,7 +736,7 @@ Given a string, find the longest palindromic contiguous substring. If there are 
 
 For example, the longest palindromic substring of "aabcdcb" is "bcdcb". The longest palindromic substring of "bananas" is "anana".
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem46.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem46.js)
 
 ---
 
@@ -748,7 +748,7 @@ Given a array of numbers representing the stock prices of a company in chronolog
 
 For example, given [9, 11, 8, 5, 7, 10], you should return 5, since you could buy the stock at 5 dollars and sell it at 10 dollars.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem47.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem47.js)
 
 ---
 
@@ -776,7 +776,7 @@ You should return the following tree:
 d  e f  g
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem48.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem48.js)
 
 ---
 
@@ -792,7 +792,7 @@ Given the array [-5, -1, -8, -9], the maximum sum would be 0, since we would not
 
 Do this in O(N) time.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem49.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem49.js)
 
 ---
 
@@ -816,7 +816,7 @@ For example, given the following tree:
 
 You should return 45, as it is (3 + 2) * (4 + 5).
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/41-50/Problem50.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/41-50/Problem50.js)
 
 ---
 
@@ -830,7 +830,7 @@ It should run in O(N) time.
 
 Hint: Make sure each one of the 52! permutations of the deck is equally likely.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem51.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem51.js)
 
 ---
 
@@ -845,7 +845,7 @@ Implement an LRU (Least Recently Used) cache. It should be able to be initialize
 
 Each operation should run in O(1) time.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem52.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem52.js)
 
 ---
 
@@ -855,7 +855,7 @@ This problem was asked by Apple.
 
 Implement a queue using two stacks. Recall that a queue is a FIFO (first-in, first-out) data structure with the following methods: enqueue, which inserts an element into the queue, and dequeue, which removes it.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem53.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem53.js)
 
 ---
 
@@ -867,7 +867,7 @@ Sudoku is a puzzle where you're given a partially-filled 9 by 9 grid with digits
 
 Implement an efficient sudoku solver.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem54.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem54.js)
 
 ---
 
@@ -882,7 +882,7 @@ Implement a URL shortener with the following methods:
 
 Hint: What if we enter the same URL twice?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem55.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem55.js)
 
 ---
 
@@ -892,7 +892,7 @@ This problem was asked by Google.
 
 Given an undirected graph represented as an adjacency matrix and an integer k, write a function to determine whether each vertex in the graph can be colored such that no two adjacent vertices share the same color using at most k colors.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem56.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem56.js)
 
 ---
 
@@ -906,7 +906,7 @@ You can assume that there are no spaces at the ends of the string and that there
 
 For example, given the string "the quick brown fox jumps over the lazy dog" and k = 10, you should return: ["the quick", "brown fox", "jumps over", "the lazy", "dog"]. No string in the list has a length of more than 10.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem57.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem57.js)
 
 ---
 
@@ -922,7 +922,7 @@ For example, given the array [13, 18, 25, 2, 8, 10] and the element 8, return 4 
 
 You can assume all the integers in the array are unique.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem58.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem58.js)
 
 ---
 
@@ -932,7 +932,7 @@ This problem was asked by Google.
 
 Implement a file syncing algorithm for two computers over a low-bandwidth network. What if we know the files in the two computers are mostly the same?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem59.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem59.js)
 
 ---
 
@@ -946,7 +946,7 @@ For example, given the multiset {15, 5, 20, 10, 35, 15, 10}, it would return tru
 
 Given the multiset {15, 5, 20, 10, 35}, it would return false, since we can't split it up into two subsets that add up to the same sum.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/51-60/Problem60.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/51-60/Problem60.js)
 
 ---
 
@@ -960,7 +960,7 @@ Do this faster than the naive method of repeated multiplication.
 
 For example, pow(2, 10) should return 1024.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem61.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem61.js)
 
 ---
 
@@ -977,7 +977,7 @@ For example, given a 2 by 2 matrix, you should return 2, since there are two way
 
 Given a 5 by 5 matrix, there are 70 ways to get to the bottom-right.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem62.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem62.js)
 
 ---
 
@@ -998,7 +998,7 @@ For example, given the following matrix:
 
 and the target word 'FOAM', you should return true, since it's the leftmost column. Similarly, given the target word 'MASS', you should return true, since it's the last row.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem63.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem63.js)
 
 ---
 
@@ -1010,7 +1010,7 @@ A knight's tour is a sequence of moves by a knight on a chessboard such that all
 
 Given N, write a function to return the number of knight's tours on an N by N chessboard.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem64.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem64.js)
 
 ---
 
@@ -1054,7 +1054,7 @@ You should print out the following:
 12
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem65.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem65.js)
 
 ---
 
@@ -1066,7 +1066,7 @@ Assume you have access to a function toss_biased() which returns 0 or 1 with a p
 
 Write a function to simulate an unbiased coin toss.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem66.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem66.js)
 
 ---
 
@@ -1081,7 +1081,7 @@ Implement an LFU (Least Frequently Used) cache. It should be able to be initiali
 
 Each operation should run in O(1) time
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem67.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem67.js)
 
 ---
 
@@ -1113,7 +1113,7 @@ The board would look like this:
 
 You should return 2, since bishops 1 and 3 attack each other, as well as bishops 3 and 4.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem68.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem68.js)
 
 ---
 
@@ -1127,7 +1127,7 @@ For example, if the list is [-10, -10, 5, 2], we should return 500, since that's
 
 You can assume the list has at least three integers.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem69.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem69.js)
 
 ---
 
@@ -1141,7 +1141,7 @@ Given a positive integer n, return the n-th perfect number.
 
 For example, given 1, you should return 19. Given 2, you should return 28.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/61-70/Problem70.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/61-70/Problem70.js)
 
 ---
 
@@ -1151,7 +1151,7 @@ This problem was asked by Two Sigma.
 
 Using a function rand7() that returns an integer from 1 to 7 (inclusive) with uniform probability, implement a function rand5() that returns an integer from 1 to 5 (inclusive).
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem71.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem71.js)
 
 ---
 
@@ -1186,7 +1186,7 @@ A
 
 Should return null, since we have an infinite loop.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem72.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem72.js)
 
 ---
 
@@ -1196,7 +1196,7 @@ This problem was asked by Google.
 
 Given the head of a singly linked list, reverse it in-place.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem73.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem73.js)
 
 ---
 
@@ -1224,7 +1224,7 @@ For example, given N = 6 and X = 12, you should return 4, since the multiplicati
 
 And there are 4 12's in the table.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem74.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem74.js)
 
 ---
 
@@ -1236,7 +1236,7 @@ Given an array of numbers, find the length of the longest increasing subsequence
 
 For example, given the array [0, 8, 4, 12, 2, 10, 6, 14, 1, 9, 5, 13, 3, 11, 7, 15], the longest increasing subsequence has length 6: it is 0, 2, 6, 9, 11, 15.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem75.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem75.js)
 
 ---
 
@@ -1274,7 +1274,7 @@ tsr
 ```
 Your function should return 3, since we would need to remove all the columns to order it.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem76.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem76.js)
 
 ---
 
@@ -1288,7 +1288,7 @@ The input list is not necessarily ordered in any way.
 
 For example, given [(1, 3), (5, 8), (4, 10), (20, 25)], you should return [(1, 3), (4, 10), (20, 25)].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem77.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem77.js)
 
 ---
 
@@ -1298,7 +1298,7 @@ This problem was asked by Google.
 
 Given k sorted singly linked lists, write a function to merge all the lists into one sorted singly linked list.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem78.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem78.js)
 
 ---
 
@@ -1312,7 +1312,7 @@ For example, given the array [10, 5, 7], you should return true, since we can mo
 
 Given the array [10, 5, 1], you should return false, since we can't modify any one element to get a non-decreasing array.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem79.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem79.js)
 
 ---
 
@@ -1329,7 +1329,7 @@ Given the root of a binary tree, return a deepest node. For example, in the foll
  /
 d
 ```
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/71-80/Problem80.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/71-80/Problem80.js)
 
 ---
 
@@ -1341,7 +1341,7 @@ Given a mapping of digits to letters (as in a phone number), and a digit string,
 
 For example if {“2”: [“a”, “b”, “c”], 3: [“d”, “e”, “f”], …} then “23” should return [“ad”, “ae”, “af”, “bd”, “be”, “bf”, “cd”, “ce”, “cf"].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem81.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem81.js)
 
 ---
 
@@ -1353,7 +1353,7 @@ Using a read7() method that returns 7 characters from a file, implement readN(n)
 
 For example, given a file with the content “Hello world”, three read7() returns “Hello w”, “orld” and then “”.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem82.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem82.js)
 
 ---
 
@@ -1383,7 +1383,7 @@ should become:
   f e  d
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem83.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem83.js)
 
 ---
 
@@ -1404,7 +1404,7 @@ For example, this matrix has 4 islands.
 1 1 0 0 1
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem84.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem84.js)
 
 ---
 
@@ -1414,7 +1414,7 @@ This problem was asked by Facebook.
 
 Given three 32-bit integers x, y, and b, return x if b is 1 and y if b is 0, using only mathematical or bit operations. You can assume b can only be 1 or 0.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem85.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem85.js)
 
 ---
 
@@ -1426,7 +1426,7 @@ Given a string of parentheses, write a function to compute the minimum number of
 
 For example, given the string "()())()", you should return 1. Given the string ")(", you should return 2, since we must remove all of them.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem86.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem86.js)
 
 ---
 
@@ -1464,7 +1464,7 @@ A N B
 ```
 is considered valid.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem87.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem87.js)
 
 ---
 
@@ -1474,7 +1474,7 @@ This question was asked by Wish.
 
 Implement division of two positive integers without using the division, multiplication, or modulus operators. Return the quotient as an integer, ignoring the remainder.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem88.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem88.js)
 
 ---
 
@@ -1486,7 +1486,7 @@ Determine whether a tree is a valid binary search tree.
 
 A binary search tree is a tree with two children, left and right, and satisfies the constraint that the key in the left child must be less than or equal to the root and the key in the right child must be greater than or equal to the root.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem89.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem89.js)
 
 ---
 
@@ -1496,7 +1496,7 @@ This question was asked by Google.
 
 Given an integer n and a list of integers l, write a function that randomly generates a number from 0 to n-1 that isn't in l (uniform).
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/81-90/Problem90.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/81-90/Problem90.js)
 
 ---
 
@@ -1515,7 +1515,7 @@ for (var i = 0; i < 10; i++) {
 functions.forEach(f => console.log(f()));
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/91-100/Problem91.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/91-100/Problem91.js)
 
 ---
 
@@ -1529,7 +1529,7 @@ Return null if there is no such ordering.
 
 For example, given {'CSC300': ['CSC100', 'CSC200'], 'CSC200': ['CSC100'], 'CSC100': []}, should return ['CSC100', 'CSC200', 'CSCS300'].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/91-100/Problem92.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/91-100/Problem92.js)
 
 ---
 
@@ -1541,7 +1541,7 @@ Given a tree, find the largest tree/subtree that is a BST.
 
 Given a tree, return the size of the largest tree/subtree that is a BST.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/91-100/Problem93.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/91-100/Problem93.js)
 
 ---
 
@@ -1551,7 +1551,7 @@ This problem was asked by Google.
 
 Given a binary tree of integers, find the maximum path sum between two nodes. The path must go through at least one node, and does not need to go through the root.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/91-100/Problem94.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/91-100/Problem94.js)
 
 ---
 
@@ -1565,7 +1565,7 @@ For example, the list [1,2,3] should return [1,3,2]. The list [1,3,2] should ret
 
 Can you perform the operation without allocating extra memory (disregarding the input memory)?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/91-100/Problem95.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/91-100/Problem95.js)
 
 ---
 
@@ -1577,7 +1577,7 @@ Given a number in the form of a list of digits, return all possible permutations
 
 For example, given [1,2,3], return [[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/91-100/Problem96.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/91-100/Problem96.js)
 
 ---
 
@@ -1607,7 +1607,7 @@ Consider the following examples:
 - d.set(1, 2, 0) # set key 1 to value 2 at time 0
 - d.get(1, 0) # get key 1 at time 0 should be 2
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/91-100/Problem97.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/91-100/Problem97.js)
 
 ---
 
@@ -1633,7 +1633,7 @@ For example, given the following board:
 - exists(board, "SEE") returns true
 - exists(board, "ABCB") returns false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/91-100/Problem98.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/91-100/Problem98.js)
 
 ---
 
@@ -1647,7 +1647,7 @@ For example, given [100, 4, 200, 1, 3, 2], the longest consecutive element seque
 
 Your algorithm should run in O(n) complexity.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/91-100/Problem99.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/91-100/Problem99.js)
 
 ---
 
@@ -1679,7 +1679,7 @@ Output: 2
 
 It takes 1 step to move from (0, 0) to (1, 1). It takes one more step to move from (1, 1) to (1, 2).
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/91-100/Problem100.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/91-100/Problem100.js)
 
 ---
 
@@ -1702,7 +1702,7 @@ If [a, b] is one solution with a <= b, and [c, d] is another solution with c <= 
 [a, b] < [c, d]
 If a < c OR a==c AND b < d.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem101.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem101.js)
 
 ---
 
@@ -1714,7 +1714,7 @@ Given a list of integers and a number K, return which contiguous elements of the
 
 For example, if the list is [1, 2, 3, 4, 5] and K is 9, then it should return [2, 3, 4].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem102.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem102.js)
 
 ---
 
@@ -1728,7 +1728,7 @@ For example, given the string "figehaeci" and the set of characters {a, e, i}, y
 
 If there is no substring containing all the characters in the set, return null.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem103.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem103.js)
 
 ---
 
@@ -1740,7 +1740,7 @@ Determine whether a doubly linked list is a palindrome. What if it’s singly li
 
 For example, 1 -> 4 -> 3 -> 4 -> 1 returns true while 1 -> 4 returns false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem104.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem104.js)
 
 ---
 
@@ -1752,7 +1752,7 @@ Given a function f, and N return a debounced f of N milliseconds.
 
 That is, as long as the debounced f continues to be invoked, f itself will not be called for N milliseconds.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem105.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem105.js)
 
 ---
 
@@ -1764,7 +1764,7 @@ Given an integer list where each number represents the number of hops you can ma
 
 For example, [2, 0, 1, 0] returns true while [1, 1, 0, 1] returns false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem106.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem106.js)
 
 ---
 
@@ -1782,7 +1782,7 @@ Print the nodes in a binary tree level-wise. For example, the following should p
   4   5
 ```
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem107.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem107.js)
 
 ---
 
@@ -1794,7 +1794,7 @@ Given two strings A and B, return whether or not A can be shifted some number of
 
 For example, if A is abcde and B is cdeab, return true. If A is abc and B is acb, return false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem108.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem108.js)
 
 ---
 
@@ -1808,7 +1808,7 @@ For example, 10101010 should be 01010101. 11100010 should be 11010001.
 
 Bonus: Can you do this in one line?
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem109.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem109.js)
 
 ---
 
@@ -1830,7 +1830,7 @@ For example, given the tree:
 
 it should return [[1, 2], [1, 3, 4], [1, 3, 5]].
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem110.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem110.js)
 
 ---
 
@@ -1842,6 +1842,6 @@ Given a word W and a string S, find all starting indices in S which are anagrams
 
 For example, given that W is "ab", and S is "abxaba", return 0, 3, and 4.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/101-110/Problem111.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/101-110/Problem111.js)
 
 ---

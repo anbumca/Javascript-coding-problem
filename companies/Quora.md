@@ -10,6 +10,6 @@ For example, given the string "race", you should return "ecarace", since we can 
 
 As another example, given the string "google", you should return "elgoogle".
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/31-40/Problem34.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/31-40/Problem34.js)
 
 ---

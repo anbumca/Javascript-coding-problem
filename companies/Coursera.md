@@ -22,6 +22,6 @@ For example, given the following board:
 - exists(board, "SEE") returns true
 - exists(board, "ABCB") returns false.
 
-[Solution](https://github.com/Li-Victor/daily-coding-problem/blob/master/solutions/91-100/Problem98.js)
+[Solution](https://github.com/anbumca/Javascript-coding-problem/blob/master/solutions/91-100/Problem98.js)
 
 ---
