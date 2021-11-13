@@ -1,4 +1,4 @@
-# Daily Coding Problem
+# Daily Javascript Coding Problem
 
 Solutions to [Daily Coding Problem](https://www.dailycodingproblem.com) in Javascript.
 
