@@ -1,6 +1,6 @@
 # Javascript Coding Problem
 
-Solutions to [Daily Coding Problem](https://www.dailycodingproblem.com) in Javascript.
+Solutions to [Coding Problem](https://www.dailycodingproblem.com) in Javascript.
 
 ## Problem 1
 
